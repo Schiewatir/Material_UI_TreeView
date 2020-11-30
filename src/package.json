@@ -1,0 +1,17 @@
+{
+  "title": "RichObjectTreeView Material Demo",
+  "name": "RichObjectTreeView Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/next/docs/src/pages/components/tree-view/RichObjectTreeView.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@material-ui/lab": "next",
+    "@material-ui/icons": "next",
+    "@material-ui/core": "next",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  }
+}
